@@ -12,6 +12,3 @@ $("#button").mouseover( function() {
 $("#button").mouseleave( function() {
   $("#follow").removeClass("anime");
 });
-
-// mouse collision
-// var x = $("#div1").collision(".div2");
